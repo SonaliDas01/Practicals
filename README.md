@@ -1,0 +1,2 @@
+# Practicals
+Lab exercises
